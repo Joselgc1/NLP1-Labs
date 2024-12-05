@@ -1,2 +1,4 @@
 reviews.json
 sent_lexicon
+report_results/*.csv
+report_results/*.png
