@@ -2,3 +2,12 @@ reviews.json
 sent_lexicon
 report_results/*.csv
 report_results/*.png
+
+trees/
+plots/*.png
+
+.DS_Store
+
+/*.pt
+/*.txt
+/*.zip
