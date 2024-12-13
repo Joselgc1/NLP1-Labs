@@ -4,6 +4,8 @@ sent_lexicon
 report_results/*.png
 
 trees/
+models/
+data/
 plots/*.png
 
 .DS_Store
